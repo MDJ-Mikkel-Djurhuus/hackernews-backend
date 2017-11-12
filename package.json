@@ -1,0 +1,19 @@
+{
+  "name": "hackernews-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MDJ-Mikkel-Djurhuus/hackernews-backend.git"
+  },
+  "author": "mikkel.djurhuus@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MDJ-Mikkel-Djurhuus/hackernews-backend/issues"
+  },
+  "homepage": "https://github.com/MDJ-Mikkel-Djurhuus/hackernews-backend#readme"
+}
