@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/MDJ-Mikkel-Djurhuus/hackernews-backend/issues"
   },
-  "homepage": "https://github.com/MDJ-Mikkel-Djurhuus/hackernews-backend#readme"
+  "homepage": "https://github.com/MDJ-Mikkel-Djurhuus/hackernews-backend#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^4.0.1",
+    "neo4j": "^2.0.0-RC2"
+  }
 }
